@@ -1,2 +1,2 @@
-# Estudos1
+# Estudos
  Repositório para estudo - PRIMEIRA VERSÃO  
